@@ -1,0 +1,7 @@
+/home/adam/projects/VectorThing/build/CMakeFiles/vectorthing.dir
+/home/adam/projects/VectorThing/build/CMakeFiles/edit_cache.dir
+/home/adam/projects/VectorThing/build/CMakeFiles/rebuild_cache.dir
+/home/adam/projects/VectorThing/build/CMakeFiles/list_install_components.dir
+/home/adam/projects/VectorThing/build/CMakeFiles/install.dir
+/home/adam/projects/VectorThing/build/CMakeFiles/install/local.dir
+/home/adam/projects/VectorThing/build/CMakeFiles/install/strip.dir

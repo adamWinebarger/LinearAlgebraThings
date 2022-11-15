@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/adam/projects/VectorThing/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/vectorthing.dir/main.cpp.o -c /home/adam/projects/VectorThing/main.cpp",
+  "file": "/home/adam/projects/VectorThing/main.cpp"
+}
+]
